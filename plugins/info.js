@@ -8,19 +8,19 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Instagram: @jayasantika_26
 ║
 ╠═〘 Thanks To 〙 ═
-╠➥ Nurotomo
-╠➥ MfarelS
-╠➥ ST4RZ
+╠➥ Mr.T3R54K1T1_404
+╠➥ FAJAR ALFARIZI
+╠➥ FALAH & LIA
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ DANA : 0895-2466-4142
-╠➥ OVO : 0895-2466-4142
-╠➥ 3 : 0895-2466-4142
+╠➥ DANA : +62 813-3378-2061
+╠➥ OVO : +62 813-3378-2061
+╠➥ Telkomsel : +62 813-3378-2061
 ║
-║>Request? Wa.me/6289524664142
+║>Request? Wa.me/6281333782061
 ║
-╠═〘 NINGA ZHUMAKE 〙 ═
+╠═〘 FAJAR ALFARIZI 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
