@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/KetutDarsa/TERMUX-WABOT
-> cd TERMUX-WABOT
+> git clone https://github.com/Tersakiti404-cyber/FajarBOTV5.5
+> cd FajarBOTV5.5
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/KetutDarsa/TERMUX-WABOT
-> cd TERMUX-WABOT
+> git clone https://github.com/Tersakiti404-cyber/FajarBOTV5.5
+> cd FajarBOTV5.5
 > npm install
 ```
 ###### Run
@@ -31,7 +31,7 @@ Simple WhatsApp Bot
 ```
 
 # Sosmed
-```Thanks @Nurotomo
-> Instagram: @jayasantika_26
-> WhatsApp: 0895-2466-4142
+```Thanks @Fajar
+> Instagram: @mhmdfjralfarizi_
+> WhatsApp: +62 813-3378-2061
 ```
