@@ -60,7 +60,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
           if (menu.help) groups[tag].push(menu)
     }
     conn.menu = conn.menu ? conn.menu : {}
-    let before = conn.menu.before || `${conn.getName(conn.user.jid)} • Bot\n\nHai, %name!\n*Total:* %exp XP\n\n*Limit Anda: %limit*\n\n*Tanggal: %week, %date*\n *Waktu:%time*\nUptime: %uptime\n\n *Github:*\nhttps://github.com/KetutDarsa/TERMUX-WABOT\n`
+    let before = conn.menu.before || `${conn.getName(conn.user.jid)} • Bot\n\nHai, %name!\n*Total:* %exp XP\n\n*Limit Anda: %limit*\n\n*Tanggal: %week, %date*\n *Waktu:%time*\nUptime: %uptime\n\n *Github:*\nPrivate Owner\n`
     let header = conn.menu.header || '╭─「 %category 」'
     let body   = conn.menu.body   || '│➥ %cmd%islimit'
     let footer = conn.menu.footer || '╰────\n'
