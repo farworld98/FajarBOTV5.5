@@ -47,7 +47,6 @@ Universal:
 %date (Tanggal)
 %time (Jam)
 %uptime (Uptime Bot)
-%totalreg (Jumlah User yang ada di database)
 
 Bagian Menu Header & Footer:
 %category (Kategori)
