@@ -2,29 +2,31 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 ╠═〘 INFO BOT 〙 ═
 ╠➥ Dibuat dengan bahasa javascript via NodeJs
-╠➥ Rec: Tersakiti Gans
+╠➥ Rec: Drawl Nag
+╠➥ Script: @Nurotomo
 ║
-╠➥ Github: PRIVATE BY OWNER
-╠➥ Instagram: @mhmdfjralfarizi_
+╠➥ Github: https://github.com/Arya274/Arya-DN
+╠➥ Instagram: @arpunchs
+╠➥ YouTube: Drawl Nag
 ║
 ╠═〘 Thanks To 〙 ═
-╠➥ Mr.T3R54K1T1_404
-╠➥ FAJAR ALFARIZI
-╠➥ FALAH & LIA
+╠➥ Nurotomo
+╠➥ MfarelS
+╠➥ ST4RZ
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ DANA : +62 813-3378-2061
-╠➥ OVO : +62 813-3378-2061
-╠➥ Telkomsel : +62 813-3378-2061
+╠➥ SmartFren: 0882-3543-5804
+╠➥ Tsel: 0813-5730-2007
+╠➥ Indosat: 0815-1586-0089
 ║
-║>Request? Wa.me/6281333782061
+║>Request? Wa.me/6281357302007
 ║
-╠═〘 FAJAR ALFARIZI 〙 ═
+╠═〘 NfQ BOT 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
-handler.tags = ['about']
+handler.tags = ['info']
 handler.command = /^(info)$/i
 handler.owner = false
 handler.mods = false
