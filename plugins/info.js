@@ -3,26 +3,27 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠═〘 INFO BOT 〙 ═
 ╠➥ Dibuat dengan bahasa javascript via NodeJs
 ╠➥ Rec: Tersakiti Gans
-╠➥ Script: @Fajar
+╠➥ Script: @mhmdfjralfarizi_
 ║
 ╠➥ Github: PRIVATE BY OWNER
-╠➥ Instagram: @mhmffjralfarizi_
+╠➥ Instagram: @mhmdfjralfarizi_
 ╠➥ YouTube: Tersakiti Gans
 ║
 ╠═〘 Thanks To 〙 ═
 ╠➥ FAJAR & DEBBY
 ╠➥ FALAH & LIA
-╠➥ ST4RZ
+╠➥ DENNIS
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
 ╠➥ DANA: +62 813-3378-2061
 ╠➥ Tsel: +62 813-3378-2061
 ╠➥ GOPAY: +62 813-3378-2061
+╠➥ OVO: +62 813-3378-2061
 ║
 ║>Request? Wa.me/+62813-3378-2061
 ║
-╠═〘 NfQ BOT 〙 ═
+╠═〘 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
