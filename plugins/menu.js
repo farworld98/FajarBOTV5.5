@@ -75,8 +75,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │
 │ Uptime: *%uptime*
 │ Database: %totalreg nomor
+│ TEAM: BHI OFFICIAL
 │ Github:
-│ %github
+│ *_PRIVATE BY OWNER_*
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
