@@ -10,13 +10,13 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-DN
+5) $git clone https://github.com/Tersakiti404-cyber/FajarBOTV5.5
 6) $ls
-7) $cd Arya-DN
+7) $cd FajarBOTV5.5
+8) $sh install.sh
 
 yang *terakhirr*..
 Penginstalannya cuy :)
-8) npm i
 9) node index.js
 
 _Bisa kalian liat tutorialnya di_
